@@ -6,10 +6,10 @@ public class Constants {
 
 	public static final String smtpHost = "smtp.gmail.com";
 	public static final String smtpPort = "587";
-	public static final String emailSenderId = "rishikesh212c@gmail.com";
-	public static final String emailSenderPassword = "kvob efob bosf xybx";
+	public static final String emailSenderId = "";
+	public static final String emailSenderPassword = "";
 	public static String emailRecipientId;
-	public static String emailCCId = "rishikeshc369@gmail.com";
+	public static String emailCCId = "";
 	public static String emailSubject;
 	public static String emailBody;
 	public static String emailStatus = "failed to send.";
